@@ -8,7 +8,7 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Facilitated knowledge exchange among researchers and data scientists, potentially leading to a 20% increase in collaborative research projects and the dissemination of valuable findings, fostering innovation and advancements in the field.
 * Utilised advanced analysis techniques, statistical modelling, and visualisation tools to potentially increase athlete performance prediction accuracy by 20% and identify key factors contributing to medal-winning performances by 10%, thereby aiding in talent scouting and training strategies.
 
-        ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/olympics_analytics_image.png)
+  ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/olympics_analytics_image.png)
 
 # [Project 2: Bike Analytics](https://github.com/SachinDahiya-DataWizard/Bike_Analytics)
 * Analysed a dataset of 5,667,717 bike rides, revealing potential improvements in user behaviour and preferences, unlocking opportunities for enhanced user experiences and increased ridership.
@@ -17,7 +17,7 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Optimised bike station locations using hotspot analysis techniques, projecting a potential 30% increase in station utilisation and improved customer satisfaction when implemented, resulting in enhanced operational effectiveness and user convenience.
 * Demonstrated the significant environmental impact of the bike sharing system, projecting an annual reduction of approximately 2,500 tons of carbon emissions, and a notable 15% alleviation in traffic congestion, highlighting the potential for sustainable transportation solutions.
 
-        ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/bike_analytics_image.png)
+     ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/bike_analytics_image.png)
 
 # [Project 3: Sales Performance Analytics](https://github.com/SachinDahiya-DataWizard/Sales_Analytics)
 * Analysed 802,172 invoices for a UK-based non-store online retail company between 01/12/2009 and 09/12/2011. Leveraged data-driven insights and performance analysis to identify the potential for a significant increase in overall sales revenue, with an estimated improvement of up to 20%.
@@ -27,6 +27,6 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Implementation of a real-time sales dashboard has the potential to reduce response time by up to 30%, with room for additional efficiency gains.
 * Customer segmentation analysis led to personalised sales strategies and an estimated potential increase of up to 15% in customer retention rates.
 
-        ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/sales_analytics_image.png)
+     ![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/sales_analytics_image.png)
 
 
