@@ -17,10 +17,16 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Optimised bike station locations using hotspot analysis techniques, projecting a potential 30% increase in station utilisation and improved customer satisfaction when implemented, resulting in enhanced operational effectiveness and user convenience.
 * Demonstrated the significant environmental impact of the bike sharing system, projecting an annual reduction of approximately 2,500 tons of carbon emissions, and a notable 15% alleviation in traffic congestion, highlighting the potential for sustainable transportation solutions.
 
+![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/bike_analytics_image.png)
+
 # [Project 3: Sales Performance Analytics](https://github.com/SachinDahiya-DataWizard/Sales_Analytics)
 * Analysed 802,172 invoices for a UK-based non-store online retail company between 01/12/2009 and 09/12/2011. Leveraged data-driven insights and performance analysis to identify the potential for a significant increase in overall sales revenue, with an estimated improvement of up to 20%.
 * Identified key sales trends and patterns using advanced analytics techniques, leading to an estimated potential improvement of up to 15% in sales forecasting accuracy.
 * Optimisation of pricing strategies has the potential to increase profit margins by up to 10%, with further optimisation possibilities.
 * Identified and eliminated bottlenecks in the sales process, resulting in a 20% increase in sales team productivity, with ongoing improvement potential.
 * Implementation of a real-time sales dashboard has the potential to reduce response time by up to 30%, with room for additional efficiency gains.
-Customer segmentation analysis led to personalised sales strategies and an estimated potential increase of up to 15% in customer retention rates.
+* Customer segmentation analysis led to personalised sales strategies and an estimated potential increase of up to 15% in customer retention rates.
+
+![]()
+
+
