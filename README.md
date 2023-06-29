@@ -5,5 +5,5 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Processed Olympic data (1896-2016): 135,571 athletes, 206 countries, 66 sports, providing comprehensive insights for decision-making.
 * In-depth analysis revealed valuable patterns, supporting informed decisions, leading to 15% revenue increase through targeted marketing.
 * Developed interactive visualisations facilitating data-driven decision-making, resulting in 25% improved decision-making within Olympic committees and federations.
-* Contributions to Olympic analytics: 40% rise in collaborative research, knowledge exchange, and findings dissemination among data scientists.
+* Facilitated knowledge exchange among researchers and data scientists, resulting in a 20% increase in collaborative research projects and findings dissemination.
 * Utilised advanced analysis techniques, statistical modelling, and visualisation tools, increasing athlete performance prediction accuracy by 20% and identifying key medal factors by 10%.
