@@ -8,6 +8,8 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Facilitated knowledge exchange among researchers and data scientists, potentially leading to a 20% increase in collaborative research projects and the dissemination of valuable findings, fostering innovation and advancements in the field.
 * Utilised advanced analysis techniques, statistical modelling, and visualisation tools to potentially increase athlete performance prediction accuracy by 20% and identify key factors contributing to medal-winning performances by 10%, thereby aiding in talent scouting and training strategies.
 
+![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/olympics_analytics_image.png)
+
 # [Project 2: Bike Analytics](https://github.com/SachinDahiya-DataWizard/Bike_Analytics)
 * Analysed a dataset of 5,667,717 bike rides, revealing potential improvements in user behaviour and preferences, unlocking opportunities for enhanced user experiences and increased ridership.
 * Identified two key user segments: casual riders (59%) and members (41%), offering the potential for targeted marketing strategies and personalised offerings to drive membership growth and loyalty.
