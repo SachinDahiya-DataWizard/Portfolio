@@ -27,6 +27,6 @@ Welcome to my Portfolio repository! Here you will find a collection of my work, 
 * Implementation of a real-time sales dashboard has the potential to reduce response time by up to 30%, with room for additional efficiency gains.
 * Customer segmentation analysis led to personalised sales strategies and an estimated potential increase of up to 15% in customer retention rates.
 
-![]()
+![](https://github.com/SachinDahiya-DataWizard/Portfolio/blob/main/Images/sales_analytics_image.png)
 
 
